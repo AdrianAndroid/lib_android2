@@ -1,3 +1,6 @@
 [submodule "ExoPlayer"]
 	path = ExoPlayer
 	url = git@github.com:AdrianAndroid/ExoPlayer.git
+[submodule "MMKV"]
+	path = MMKV
+	url = git@github.com:AdrianAndroid/MMKV.git
