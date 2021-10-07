@@ -4,3 +4,6 @@
 [submodule "MMKV"]
 	path = MMKV
 	url = git@github.com:AdrianAndroid/MMKV.git
+[submodule "wlmusic"]
+	path = wlmusic
+	url = git@gitee.com:WhatINeed/wlmusic.git
